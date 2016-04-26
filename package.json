@@ -1,6 +1,6 @@
 {
   "name": "strider-deconst-common",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shared utilities for Deconst Strider build plugins",
   "main": "index.js",
   "scripts": {
