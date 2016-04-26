@@ -1,0 +1,23 @@
+{
+  "name": "strider-deconst-common",
+  "version": "0.0.1",
+  "description": "Shared utilities for Deconst Strider build plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deconst/strider-deconst-common.git"
+  },
+  "keywords": [
+    "deconst",
+    "strider"
+  ],
+  "author": "Ash Wilson <smashwilson@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/deconst/strider-deconst-common/issues"
+  },
+  "homepage": "https://github.com/deconst/strider-deconst-common#readme"
+}
